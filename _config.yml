@@ -1,0 +1,73 @@
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+title: "Script for calibrating printers using ArgyllCMS on MacOS, Linux or Windows"
+description: "An interactive script that automates a complete ArgyllCMS printer profiling workflow on macOS/Linux/Windows, from target generation to ICC profile creation."
+author: "Knut Larsson"
+lang: en
+keywords:
+  - Argyll_Printer_Profiler
+  - Argyll Printer Profiler
+  - ArgyllCMS
+  - Argyll CMS
+  - argyll-cms
+  - argyllcms
+  - automated ArgyllCMS workflow
+  - printer profiling automation
+  - printer ICC profiling
+  - ICC profile creation
+  - ICC profile generation
+  - ICC color profiles
+  - ICM profile creation
+  - ICM profile generation
+  - ICM color profiles
+  - printer calibration
+  - printer characterization
+  - printer color management
+  - macOS printer profiling
+  - macOS color management
+  - Linux printer profiling
+  - Linux color management
+  - Windows printer profiling
+  - Windows color management
+  - Homebrew ArgyllCMS
+  - bash script
+  - shell script
+  - python script
+  - macOS bash automation
+  - terminal-based profiling
+  - ColorSync Utility
+  - Apple ColorSync
+  - print as color target
+  - targen
+  - printtarg
+  - chartread
+  - colprof
+  - profcheck
+  - TI1 file
+  - TI2 file
+  - TI3 file
+  - spectrophotometer support
+  - X-Rite ColorMunki Photo
+  - X-Rite i1Studio
+  - X-Rite i1Pro
+  - X-Rite i1Pro2
+  - X-Rite i1Pro3
+  - X-Rite i1 Pro
+  - X-Rite i1 Pro 2
+  - X-Rite i1 Pro 3
+  - printer ink limit
+  - patch consistency tolerance
+  - RGB printer profiling
+  - CMYK printer profiling
+  - inkjet printer profiling
+  - fine art printer profiling
+  - ICC workflow automation
+  - ICM workflow automation
+  - photographic printing accuracy
+
+plugins:
+  - jekyll-sitemap
+
+url: "https://soul-traveller.github.io"
+baseurl: "/Argyll_Printer_Profiler_GUI"
